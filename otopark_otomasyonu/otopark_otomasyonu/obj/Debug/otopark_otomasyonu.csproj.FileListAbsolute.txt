@@ -1,0 +1,62 @@
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe.config
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.pdb
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Form1.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.Cache
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.exe
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.pdb
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.musteri.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.kayit_ol.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.personel.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_cikis.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_giris.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_konumlari.resources
+c:\users\meriç\documents\visual studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.musteri_islemleri.resources
+C:\Users\Meriç\Documents\Visual Studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.personel_islemleri.resources
+C:\Users\Meriç\Documents\Visual Studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.sifremi_unuttum.resources
+C:\Users\Meriç\Documents\Visual Studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.teknik_servis.resources
+C:\Users\Meriç\Documents\Visual Studio 2015\Projects\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.satis_islemleri.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csprojAssemblyReference.cache
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_cikis.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_giris.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_konumlari.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.kayit_ol.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.musteri.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.musteri_islemleri.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.personel.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.personel_islemleri.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.satis_islemleri.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.sifremi_unuttum.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.teknik_servis.resources
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.exe
+C:\Users\Ebru\Desktop\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.pdb
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe.config
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.exe
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\bin\Debug\otopark_otomasyonu.pdb
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csprojAssemblyReference.cache
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_cikis.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_giris.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.arac_konumlari.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Form1.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.kayit_ol.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.musteri.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.musteri_islemleri.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.personel.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.personel_islemleri.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.Properties.Resources.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.satis_islemleri.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.sifremi_unuttum.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.teknik_servis.resources
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.GenerateResource.cache
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.exe
+C:\Users\Ebru\Desktop\vtys\otopark_otomasyonu\otopark_otomasyonu\obj\Debug\otopark_otomasyonu.pdb
