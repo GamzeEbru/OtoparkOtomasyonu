@@ -1,5 +1,5 @@
 # OtoparkOtomasyonu
-VeriTabanı Yönetim Sistemleri dersi için yapmış olduğum veritabanlı otopark otomasyonu uygulamasıdır.
+VeriTabanı Yönetim Sistemleri dersi için yapmış olduğum veritabanlı otopark otomasyonu uygulamasıdır. Veritabanı olarak Microsoft SQL Server kullanılmıştır.
 ## ÖZET
 
 
